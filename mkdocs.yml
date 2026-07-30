@@ -1,0 +1,37 @@
+site_name: My Learning Notes
+site_url: https://github.com/CommanderGoodCheesecake/my-notes/
+theme:
+  name: material
+  palette:
+    - primary: deep purple
+    - accent: purple
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - UE5:
+      - Overview: ue5/index.md
+      - Blueprint Basics: ue5/Blueprint Basics.md
+  - Blender:
+      - Overview: Blender/index.md
+      - The starting cube: Blender/The Starting Cube.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+
+extra_css: 
+  - stylesheets/extra.css
