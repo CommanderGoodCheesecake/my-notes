@@ -26,12 +26,14 @@ nav:
   - Blender:
       - Overview: Blender/index.md
       - The starting cube: Blender/The Starting Cube.md
+      - Lowpoly Fantasy Weapons: Blender/Lowpoly Fantasy Weapons.md
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.keys
+  - attr_list
 
 extra_css: 
   - stylesheets/extra.css
