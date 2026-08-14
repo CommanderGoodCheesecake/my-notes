@@ -25,8 +25,13 @@ nav:
       - Blueprint Basics: ue5/Blueprint Basics.md
   - Blender:
       - Overview: Blender/index.md
-      - The starting cube: Blender/The Starting Cube.md
-      - Lowpoly Fantasy Weapons: Blender/Lowpoly Fantasy Weapons.md
+      - Getting started with Blender:
+          - The starting cube: Blender/Getting started with Blender/The Starting Cube.md
+      - Lowpoly Fantasy Weapons:
+          - Hammer: Blender/Lowpoly Fantasy Weapons/Hammer.md
+          - Shield: Blender/Lowpoly Fantasy Weapons/Shield.md
+          - Sword: Blender/Lowpoly Fantasy Weapons/Sword.md
+          - Staff: Blender/Lowpoly Fantasy Weapons/Staff.md
 
 markdown_extensions:
   - admonition
