@@ -4,7 +4,6 @@ theme:
   name: material
   palette:
     - primary: deep purple
-    - accent: purple
     - scheme: default
       toggle:
         icon: material/brightness-7
@@ -21,17 +20,29 @@ theme:
 nav:
   - Home: index.md
   - UE5:
-      - Overview: ue5/index.md
-      - Blueprint Basics: ue5/Blueprint Basics.md
+    - Overview: ue5/index.md
+    - Entering the Cockpit:
+      - Blueprint Basics: ue5/Entering the Cockpit/Blueprint Basics.md
+      - What does this button do: ue5/Entering the Cockpit/What does this button do.md
+    - Blueprint Communication:
+      - Event dispatches: ue5/Blueprint Communication/Event Dispatches.md
+      - Blueprint Interfaces: ue5/Blueprint Communication/Blueprint Interfaces.md
+      - When to Cast: ue5/Blueprint Communication/When to Cast.md
+    - The Way of Data:
+      - Arrays: ue5/The Way of Data/Arrays.md
+      - Maps and Sets: ue5/The Way of Data/Maps and Sets.md
+      - Structures: ue5/The Way of Data/Structures.md
+      - Data Tables: ue5/The Way of Data/Data Tables.md
+      - Saving the Game: ue5/The Way of Data/Saving the Game.md
   - Blender:
-      - Overview: Blender/index.md
-      - Getting started with Blender:
-          - The starting cube: Blender/Getting started with Blender/The Starting Cube.md
-      - Lowpoly Fantasy Weapons:
-          - Hammer: Blender/Lowpoly Fantasy Weapons/Hammer.md
-          - Shield: Blender/Lowpoly Fantasy Weapons/Shield.md
-          - Sword: Blender/Lowpoly Fantasy Weapons/Sword.md
-          - Staff: Blender/Lowpoly Fantasy Weapons/Staff.md
+    - Overview: Blender/index.md
+    - Getting started with Blender:
+      - The starting cube: Blender/Getting started with Blender/The Starting Cube.md
+    - Lowpoly Fantasy Weapons:
+      - Hammer: Blender/Lowpoly Fantasy Weapons/Hammer.md
+      - Shield: Blender/Lowpoly Fantasy Weapons/Shield.md
+      - Sword: Blender/Lowpoly Fantasy Weapons/Sword.md
+      - Staff: Blender/Lowpoly Fantasy Weapons/Staff.md
 
 markdown_extensions:
   - admonition
@@ -39,6 +50,3 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.keys
   - attr_list
-
-extra_css: 
-  - stylesheets/extra.css
