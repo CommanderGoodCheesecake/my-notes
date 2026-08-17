@@ -49,8 +49,6 @@ To inspect the object you are viewing, you can hold down middle mouse wheel and 
 
 ![Zoomed in on the Camera Object in the scene](../images/TheStartingCubeImages/ScopingTheScene3.png)
 
-![Zoomed in on the Camera Object in the scene](../images/TheStartingCubeImages/ScopingTheScene4.png)
-
 ## Working with Cubes
 
 At the top left

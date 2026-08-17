@@ -16,8 +16,8 @@ I am a games programmer in Unreal Engine and a 3D modeler Using Blender and Maya
 
 * Unreal Engine 5:
     + Entering the Cockpit
-        - [What doe this Button do?](ue5\Blueprint Communication\What does this button do.md)
-        - [Blueprint Basics](ue5\Blueprint Communication\Event Dispatches.md)
+        - [What doe this Button do?](ue5/Entering%20the%20Cockpit/What%20does%20this%20button%20do.md)
+        - [Blueprint Basics](ue5/Entering%20the%20Cockpit/Blueprint%20Basics.md)
     + Blueprint Communications
         - [Event dispatches](ue5\Blueprint Communication\Event Dispatches.md)
         - [Blueprint Interfaces](ue5\Blueprint Communication\Blueprint Interfaces.md)
@@ -25,9 +25,9 @@ I am a games programmer in Unreal Engine and a 3D modeler Using Blender and Maya
     + The way of Data
         - [Arrays](ue5/The Way of Data/Arrays.md)
         - [Maps and Sets](ue5/The Way of Data/Maps and Sets.md)
-        - [Structures](ue5/The Way of Data/Data Structures.md)
+        - [Structures](ue5/The Way of Data/Structures.md)
         - [Data Tables](ue5/The Way of Data/Data Tables.md)
-        - [Save Game System](ue5/The Way of Data/Save Game System.md)
+        - [Saving the Game](ue5/The Way of Data/Saving the Game.md)
 
 * Blender:
     + Getting Started with Blender
