@@ -2,38 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/CommanderGoodCheesecake/my-notes/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <lastmod>2026-08-17</lastmod>
     </url>
     <url>
          <loc>https://github.com/CommanderGoodCheesecake/my-notes/Blender/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <lastmod>2026-08-17</lastmod>
     </url>
     <url>
          <loc>https://github.com/CommanderGoodCheesecake/my-notes/Blender/Getting%20started%20with%20Blender/The%20Starting%20Cube/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/Blender/Getting%20started%20with%20Blender/Working%20With%20Materials/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
     <url>
          <loc>https://github.com/CommanderGoodCheesecake/my-notes/Blender/Lowpoly%20Fantasy%20Weapons/Hammer/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <lastmod>2026-08-17</lastmod>
     </url>
     <url>
          <loc>https://github.com/CommanderGoodCheesecake/my-notes/Blender/Lowpoly%20Fantasy%20Weapons/Shield/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <lastmod>2026-08-17</lastmod>
     </url>
     <url>
          <loc>https://github.com/CommanderGoodCheesecake/my-notes/Blender/Lowpoly%20Fantasy%20Weapons/Staff/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <lastmod>2026-08-17</lastmod>
     </url>
     <url>
          <loc>https://github.com/CommanderGoodCheesecake/my-notes/Blender/Lowpoly%20Fantasy%20Weapons/Sword/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <lastmod>2026-08-17</lastmod>
     </url>
     <url>
          <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <lastmod>2026-08-17</lastmod>
     </url>
     <url>
-         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/Blueprint%20Basics/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/Blueprint%20Communication/Blueprint%20Interfaces/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/Blueprint%20Communication/Event%20Dispatches/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/Blueprint%20Communication/When%20to%20Cast/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/Entering%20the%20Cockpit/Blueprint%20Basics/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/Entering%20the%20Cockpit/What%20does%20this%20button%20do/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/The%20Way%20of%20Data/Arrays/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/The%20Way%20of%20Data/Data%20Tables/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/The%20Way%20of%20Data/Maps%20and%20Sets/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/The%20Way%20of%20Data/Saving%20the%20Game/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/CommanderGoodCheesecake/my-notes/ue5/The%20Way%20of%20Data/Structures/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
 </urlset>
